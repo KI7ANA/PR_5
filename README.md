@@ -401,7 +401,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 4 - Изменение количества кругов](images/image_4.png)
+<img width="412" height="801" alt="image" src="https://github.com/user-attachments/assets/155392e8-8e10-400d-a3bc-5630aae4cdae" />
 
 *Рисунок 4. Главный экран после изменения количества кругов*
 
