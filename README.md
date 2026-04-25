@@ -439,7 +439,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 7 - Результат применения настройки](images/image_7.png)
+<img width="407" height="794" alt="image" src="https://github.com/user-attachments/assets/ea485454-be9c-4f75-a025-8c328172c5e3" />
 
 *Рисунок 7. Главная активность после изменения количества кругов*
 
