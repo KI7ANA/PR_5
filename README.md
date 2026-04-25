@@ -377,7 +377,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 1 - MainActivity](images/image_1.png)
+<img width="410" height="795" alt="image" src="https://github.com/user-attachments/assets/0a1f231f-1ea1-40e0-bdef-64ba297ff4a1" />
 
 *Рисунок 1. Главная Activity*
 
