@@ -447,7 +447,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 8 - AboutActivity варианта 5](images/image_8.png)
+<img width="414" height="795" alt="image" src="https://github.com/user-attachments/assets/b0cd598d-1765-48f8-b245-7f843a2d51ba" />
 
 *Рисунок 8. Экран «Об авторе»*
 
