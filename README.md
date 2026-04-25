@@ -423,7 +423,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 5 - Главная активность варианта 5](images/image_5.png)
+<img width="401" height="788" alt="image" src="https://github.com/user-attachments/assets/2d0a3967-3abe-4569-be26-0ce290fc13e5" />
 
 *Рисунок 5. Главная активность до изменения настройки*
 
