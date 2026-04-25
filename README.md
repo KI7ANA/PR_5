@@ -385,7 +385,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 2 - SettingsActivity](images/image_2.png)
+<img width="407" height="799" alt="image" src="https://github.com/user-attachments/assets/17c4ef74-0174-4670-b53c-9c0694d98a57" />
 
 *Рисунок 2. Экран настроек*
 
