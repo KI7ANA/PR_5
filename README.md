@@ -1,5 +1,3 @@
-<img width="429" height="806" alt="image" src="https://github.com/user-attachments/assets/8a7a93a0-b13d-4236-b1fe-371b276b6fb0" /><div align="center">
-
 # Отчёт
 
 </div>
