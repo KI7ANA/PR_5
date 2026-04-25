@@ -1,4 +1,4 @@
-<div align="center">
+<img width="429" height="806" alt="image" src="https://github.com/user-attachments/assets/8a7a93a0-b13d-4236-b1fe-371b276b6fb0" /><div align="center">
 
 # Отчёт
 
@@ -431,7 +431,7 @@ public class MainActivity extends AppCompatActivity {
 
 <div align="center">
 
-![Рисунок 6 - Настройки варианта 5](images/image_6.png)
+<img width="429" height="806" alt="image" src="https://github.com/user-attachments/assets/ccc9c1f9-96e3-472a-9ce5-379b06cd0d0c" />
 
 *Рисунок 6. Экран настроек*
 
